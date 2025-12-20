@@ -1,5 +1,5 @@
-# dsa_cat_module_python
-dsa_cat_module_python
+# dsa_cat_all
+dsa_cat_all
 This project uses the following libraries and their dependencies, as well as the corresponding licenses:
 
 * **`random`** - Python Standard Library (see [Python Software Foundation License](https://docs.python.org/3/license.html ))
